@@ -2,7 +2,7 @@ title: "Projects.io - Portfolio"
 description: "A professional portfolio showcasing projects built with Jekyll and GitHub Pages. This is a Demo for DevOps class"
 baseurl: "/projects.io"  # Base URL for your site
 url: "https://m-pasima.github.io"  # GitHub Pages URL
-theme: jekyll-theme-modernist  # Default theme
+theme:  jekyll-theme-time-machine  # jekyll-theme-modernist,jekyll-theme-time-machine,  jekyll-theme-modernist
 
 # Social Links
 twitter_username: pasima
