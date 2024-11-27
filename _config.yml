@@ -1,11 +1,14 @@
-title: My Project GitHub Pages Site
-description: A simple static site built with Jekyll and GitHub Pages
-baseurl: ""  # The base URL for your site, leave empty for user/organization pages
-url: "https://github.com/m-pasima/projects.io" 
-theme: jekyll-theme-cayman  #  default 
-
+title: "Projects.io - Portfolio"
+description: "A professional portfolio showcasing projects built with Jekyll and GitHub Pages. This is a Demo for DevOps class"
+baseurl: "/projects.io"  # Base URL for your site
+url: "https://m-pasima.github.io"  # GitHub Pages URL
+theme: jekyll-theme-cayman  # Default theme
 
 # Social Links
 twitter_username: pasima
 github_username: m-pasima
 linkedin_username: pasima
+
+
+footer:
+  text: "© 2024 m-pasima. All rights reserved."
