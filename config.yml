@@ -1,0 +1,11 @@
+title: My Project GitHub Pages Site
+description: A simple static site built with Jekyll and GitHub Pages
+baseurl: ""  # The base URL for your site, leave empty for user/organization pages
+url: "https://github.com/m-pasima/projects.io" 
+theme: jekyll-theme-cayman  #  default 
+
+
+# Social Links
+twitter_username: pasima
+github_username: m-pasima
+linkedin_username: pasima
